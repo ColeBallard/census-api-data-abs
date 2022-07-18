@@ -27,7 +27,7 @@ pip install matplotlib
 pip install requests
 ```
 
-5. [Sign up for an API Key.][https://api.census.gov/data/key_signup.html]
+5. [Sign up for an API Key.](https://api.census.gov/data/key_signup.html)
 
 6. Create config.py file.
 ```shell
