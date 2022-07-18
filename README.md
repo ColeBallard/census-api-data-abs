@@ -58,4 +58,10 @@ jupyter run visualizations.ipynb
 
 If you have an idea or want to report a bug, please create an issue.
 
+## **Contributors**
+[@AzurePython](https://github.com/AzurePython)
+[@ColeBallard](https://github.com/ColeBallard)
+[@seungmin478](https://github.com/seungmin478)
+[@widnie890](https://github.com/widnie890)
+
 ## **[Contact](https://coleb.io/contact)**
