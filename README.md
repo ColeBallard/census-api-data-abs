@@ -51,7 +51,7 @@ jupyter run ETL.ipynb
 
 10. Run the visualizations notebook.
 ```shell
-jupyter run visualizations.ipynb
+jupyter run Visualizations.ipynb
 ```
 
 ## **Contribution**
