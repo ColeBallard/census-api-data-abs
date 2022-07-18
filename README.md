@@ -36,7 +36,7 @@ touch config.py
 
 7. Insert API Key into variable in config.py file.
 ```dosini
-apiKey = 
+apiKey = 'yourapikey'
 ```
 
 8. Start the Jupyter Notebook server.
