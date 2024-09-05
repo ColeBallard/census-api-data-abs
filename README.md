@@ -68,4 +68,4 @@ If you have an idea or want to report a bug, please create an issue.
 [@seungmin478](https://github.com/seungmin478)
 [@widnie890](https://github.com/widnie890)
 
-## **[Contact](https://coleb.io/contact)**
+## **[Contact](https://github.com/ColeBallard/coleballard.github.io/blob/main/README.md)**
